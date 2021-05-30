@@ -1,7 +1,5 @@
 <?php
 
-use Dompdf/Dompdf;
-
 class PDF extends Controller
 {
     public function __construct()
